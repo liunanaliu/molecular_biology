@@ -1,0 +1,22 @@
+a technique to detect a specific protein in a protein mixture
+quantify the protein via BCA assay
+
+###########################################################
+step 1: SDS-PAGE migrate from the negative charge (black side) to the positive charge (red side) due to itself negative charge
+wash the gel with dd h2o for 5 mintues, for 3 time, hold on transfer buffer
+difference parameters for upper nd lower layers for gel
+
+step 2: transfer protein to a nitrocellulose membrane
+immerse the materials for sandwich in the transfer buffer for 10 minutes, but for the mmembrane firstly in menthol
+start from the negative black side, firstly for teh gel, next for the membrane
+ass long as the gel and membrane contact, do not move, label for the contactedd side, do not have bubbles in between
+the side contacted with the gel stands up forever.
+
+step 3: blocking
+no need to wash?
+
+step 4: primary antibody, monoclonal mouse
+whsh 10 minters with tbst buffer, for 3 times, 
+
+step 5: secondary antbody, species-specific, rabbit anti-mouse. with horse radish peroxidase (HPR)
+attached which will catalyse the reaction of luminol 
