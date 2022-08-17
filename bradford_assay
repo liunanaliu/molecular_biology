@@ -1,0 +1,28 @@
+coomassie brilliant blue G-250 + protein -(with acidic soltuion) 
+- shift of absorption maximun from 470 nm to 595 nm
+how to determine protein concentration
+
+#related to optical density at different concentration, similar to BCA assay
+#advantage - fast & easy, sensitive, 
+#disadvantage - incompatibility with detergents
+
+
+##############################################################
+BCA assay
+advantage compared to bradford assay
+compatible with surfactants (detergents) up to 5%
+independent on amino acid composition
+#step1 - preparing the working solution, 
+carbonate buffer with BCA at pH 11 * cupric-sulfate solution at 50:1 to make the working solution
+#step2 - protein sample and BSA standard
+BSa standard including serial dilution of 0, 1, 2, 4, 8 ug/uL
+#step3 - incubation of samples + reagent for 30 min at 37 degrees
+#step4 - analysis at end point measurement absorbance at 562 nm
+make standard curve, and calculate the contentration of interest
+
+
+reaction mechanism
+##step1 - protein + Cu2+ -----(OH-) = Cu1+
+the amount of Cu2+ reduced is proportional to the amount of protein, 
+the standard without any protein is green, wherase the highest concentraion of protein is dark purple
+##step2 - 2 BCA molecules chelate with Cu1+
