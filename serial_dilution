@@ -1,0 +1,11 @@
+prepare 10-fold dilution, dilution factor 0.1
+#step1 - add 9 mL water / medium
+#step2 - add 1 mL from stock solution / sample
+#step3 - transfer 1 mL from 1:10 to next tube
+#step4 - repeated
+from 1:10 - 1:100 - 1:1000 - 1:10000 to final dilution
+
+###########################################
+change 2-fold dilution,dilution fator 0.5
+from 1:2 - 1:4 - 1:8 - 1:16
+add 1 mL to 1 mL
