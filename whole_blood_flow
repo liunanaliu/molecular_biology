@@ -1,0 +1,57 @@
+#how many 100 uL
+from http://www.bowdish.ca/lab/wp-content/uploads/2019/06/Senescent-T-cell-Protocol-Mouse.pdf
+#how to 
+https://www.biolegend.com/en-us/protocols/cell-surface-flow-cytometry-staining-of-whole-blood
+#anti-coagulated whole blood. how to 
+Collect whole blood into heparinized tubes or into tubes containing 1 μL 10% potassium EDTA per 100 μL of whole blood.
+from https://www.thermofisher.com/de/de/home/life-science/cell-analysis/cell-analysis-learning-center/immunology-at-work/immunology-protocols/whole-blood-staining-protocol-flow-cytometry.html
+consider dilute 1:500 for the blood, from https://star-protocols.cell.com/protocols/1100
+http://www.flowlab-childrens-harvard.com/yahoo_site_admin/assets/docs/staining-cell-surface-antigens-for-flow-cytometry_ebio.289170937.pdf
+https://www.miltenyibiotec.com/US-en/resources/macs-handbook/human-cells-and-organs/human-cell-sources/blood-human.html#gref
+
+https://www.criver.com/eureka/ask-scientist-whats-difference-between-serum-and-plasma
+difference to get the serum and plasma
+
+Serum is the liquid that remains after the blood has clotted.
+Plasma is the liquid that remains when clotting is prevented with the addition of an anticoagulant.
+
+whole blood or PBMC
+https://www.miltenyibiotec.com/DE-en/resources/macs-handbook/human-cells-and-organs/human-cell-sources/blood-human.html
+https://www.miltenyibiotec.com/_Resources/Persistent/6d7e0fb8a3eab613958d142051e3c7050eb0c8a9/SP_MC_PB_density_gradient.pdf
+
+https://irepertoire.com/blood-collection-and-sample-considerations/
+whole blood consists of 55% plasma, and 45% formedd elements, (including 60 - 70% neutrophils, 20 - 25% lymphocytes, 
+3 - 8% monocytes, )
+
+whole blood preparation
+
+1. collect whole blood into heparinized tubes or into the tubes containing 1 uL 10% potassium EDTA per 100 uL of whole blood,
+2. aliquot 100 uL unlysed whole blood into a 12 x 75 mm round-bottom tubes, or 2 Ml microcentrifuge tube, (to maximum the reaction area)
+or 50 uL of whole blood, 
+could blocking Fc-receptor firstly, for all the blood, then divide them eqaully, 
+but must make sure the amount of cells in 1mL, namely concentrtion.
+
+cell surface staining
+
+1. prepare desired antibody cocktails, protect from light, and pay attention to the reaction temperature
+50 uL added in 100 uL whole blood, so the antobodies should be connsidered for 3-fold, namely in 3x working concentration
+the final concentration is for 150 uL, not for 50 uL
+
+2. add the non-specific Fc block receptor, namely CD16/32 for mouse (optimal???) and wash
+
+3. add the cocktail of antobodies, and mix by pipetting, incubate the samples in the dark at room temperature for 30 minutes,
+or inncubate for 30 minutes to 1 hour at 2-8 degrees with rotation, protect from light,
+
+4. top up 2 mL (for 100 uL of whole blood, add 2 mL of RT 1x 1-step fix/lyse solution), invert gently
+incubate for 10 to 60 minutes at RT, away from light with intermittent inversion,
+this step is for RBC lysis as well as fixation of whole blood cells,
+Viability dyes may not be used on cells lysed using the 1-Step Fix/Lyse Solution as fixation can cause 
+permeabilization of the cells.
+
+5. spin down at 2000 rpm / 400 - 600 g for 10 minutes at 4 degrees,
+
+6. aspirate supernatant, wash pellet with 2 mL FACS buffer, repeat step 4!
+
+7. aspirate supernatant, and resuspend in 240 uL of FACS buffer, 
+
+8. filter cells at RT through 0.45 um cell strainer to remove large debris and ensure single cell suspension, run flow.
